@@ -1,0 +1,272 @@
+MI CABLE TV   (Vea los canales de sus Paises ).
+#EXTM3U
+#EXTINF:-1 tvg-logo="totalplay.png" group-title="Español",001  TotalPlay
+http://200.76.77.237/LIVE/H01/CANAL1/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="MC2xml_I635.285238621.microsoft.com" tvg-name="NUESTRA635_NUESTRA635nuestra_tele_noticias_24_horasCable" tvg-logo="azteca-internacional.png" group-title="Español", 002  Azteca Internacional
+http://200.76.77.237/LIVE/H01/CANAL2/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Azteca 7" tvg-name="Azteca_7" tvg-logo="azteca-7.png" group-title="Español", 003  Azteca 7
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_El Trece" tvg-name="El_Trece" tvg-logo="el-trece.png" group-title="Español", 004   El Trece
+http://200.76.77.237/LIVE/H01/CANAL13/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Proyecto 40" tvg-name="Proyecto_40" tvg-logo="proyecto-40.png" group-title="Español", 005  Proyecto 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="MC2xml_I45.288364289.microsoft.com" tvg-name="AZCORA45_AZCORA45az_corazonCable" tvg-logo="azteca-novelas.png" group-title="Español", 006  Az Corazón
+http://200.76.77.237/LIVE/H01/CANAL45/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Canal 2 HD" tvg-name="Canal_2_HD" tvg-logo="canal-2-HD.png" group-title="Español", 007  Canal 2 HD
+http://200.76.77.237/LIVE/H01/CANAL102/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Foro TV" tvg-name="Foro_TV" tvg-logo="foro-tv-HD.png" group-title="Español", 008  Foro TV
+http://200.76.77.237/LIVE/H01/CANAL104/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Canal 5 HD" tvg-name="Canal_5_HD" tvg-logo="canal-5-HD.png" group-title="Español", 009  Canal 5 HD
+http://200.76.77.237/LIVE/H01/CANAL105/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Gala TV" tvg-name="Gala_TV" tvg-logo="gala-tv-hd.png" group-title="Español", 010  Gala TV
+http://200.76.77.237/LIVE/H01/CANAL109/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Once TV" tvg-name="Once_TV" tvg-logo="once-tv.png" group-title="Español", 011  Once TV
+ http://200.76.77.237/LIVE/H01/CANAL111/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Cadena 3" tvg-name="Cadena_3" tvg-logo="cadena-3.png" group-title="Español", 012  Cadena 3
+http://200.76.77.237/LIVE/H01/CANAL143/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TeleFórmula" tvg-name="TeleFórmula" tvg-logo="teleformula.png" group-title="Español", 013  TeleFórmula
+http://200.76.77.237/LIVE/H01/CANAL161/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Multimedios Monterrey" tvg-name="Multimedios_Monterrey" tvg-logo="multimedios-monterrey.png" group-title="Español", 014  Multimedios Monterrey
+http://200.76.77.237/LIVE/H01/CANAL167/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="CVMX_I181.305485202.microsoft.com" tvg-name="HMXTV181_HMXTV181hmx_tvCable" tvg-logo="hmx.png" group-title="Español", 015   HMX
+http://200.76.77.237/LIVE/H01/CANAL169/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox" tvg-name="Fox" tvg-logo="fox.png" group-title="Español", 016  Fox HD
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Sony HD" tvg-name="Sony_HD" tvg-logo="sony.png" tvg-shift="-1" group-title="Español", 017  Sony HD
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Warner HD" tvg-name="Warner_HD" tvg-logo="warner-hd.png" group-title="Español", 018  Warner HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Universal HD" tvg-name="Universal_HD" tvg-logo="universal-channel.png" group-title="Español", 019  Universal HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_FX HD" tvg-name="FX_HD" tvg-logo="fx-hd.png" group-title="Español", 020  FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="MC2xml_I211.260786770.microsoft.com" tvg-name="AEMEXHD211_AEMEXHD211a&e_mexico_hdCable" tvg-logo="a&e.png" group-title="Español", 021  A&E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_AXN HD" tvg-name="AXN_HD" tvg-logo="axn-hd.png" group-title="Español", 022  AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TruTV HD" tvg-name="TruTV_HD" tvg-logo="trutv-hd.png" group-title="Español", 023  TruTV HD
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Comedy Central HD" tvg-name="Comedy_Central_HD" tvg-logo="comedy-central-hd.png" group-title="Español", 024  Comedy Central HD
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Unicable" tvg-name="Unicable" tvg-logo="unicable.png" group-title="Español", 025  Unicable
+http://200.76.77.237/LIVE/H01/CANAL218/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_BBC Entertainment" tvg-name="BBC_Entertainment" tvg-logo="bbc-entertainment.png" group-title="Español", 026  BBC Entertainment
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_E! Entertainment Television" tvg-name="E!_Entertainment_Television" tvg-logo="!e.png" group-title="Español", 027  E! Entertainment Television
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Universal Channel" tvg-name="Universal_Channel" tvg-logo="universal-channel.png" group-title="Español", 028  Universal Channel
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_SyFy" tvg-name="SyFy" tvg-logo="syfy.png" group-title="Español", 029  SyFy
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_FX" tvg-name="FX" tvg-logo="fx.png" group-title="Español", 030  FX
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_El Gourmet" tvg-name="El_Gourmet" tvg-logo="el-gourmet.png" group-title="Español", 031  El Gourmet
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Glitz" tvg-name="Glitz" tvg-logo="glitz.png" group-title="Español", 032  Glitz
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Life" tvg-name="Fox_Life" tvg-logo="fox-life.png" group-title="Español", 033  Fox Life
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Distrito Comedia" tvg-name="Distrito_Comedia" tvg-logo="distrito-comedia.png" group-title="Español", 034  Distrito Comedia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TBS" tvg-name="TBS" tvg-logo="tbs.png" group-title="Español", 035  TBS
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Casa Club" tvg-name="Casa_Club" tvg-logo="casa-club.png" group-title="Español", 036  Casa Club
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Tlnovelas" tvg-name="Tlnovelas" tvg-logo="tlnovelas.png" group-title="Español", 037  Telenovelas
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Discovery Kids" tvg-name="Discovery_Kids" tvg-logo="discovery-kids.png" group-title="Español", 038   Caricaturas:   Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_CBeebies" tvg-name="CBeebies" tvg-logo="cbeebies.png" group-title="Español", 039   Caricaturas:   CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Disney Jr" tvg-name="Disney_Jr" tvg-logo="disney-jr.png" group-title="Español", 040   Caricaturas:   Disney Jr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Nick Jr" tvg-name="Nick_Jr" tvg-logo="nick-jr.png" group-title="Español", 041   Caricaturas:   Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Disney Channel" tvg-name="Disney_Channel" tvg-logo="disney-channel.png" group-title="Español", 042   Caricaturas:   Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="NY_I302.28457448.microsoft.com" tvg-name="NIKTON302_NIKTON302Nicktoons_NetworkSatellite" tvg-logo="nicktoons.png" group-title="Español", 043   Caricaturas:   NickToons
+http://200.76.77.237/LIVE/H01/CANAL314/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Nick HD" tvg-name="Nick_HD" tvg-logo="nick-hd.png" group-title="Español", 044   Caricaturas:   Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Nickelodeon (Nick)" tvg-name="Nickelodeon_(Nick)" tvg-logo="nickelodeon-(nick).png" group-title="Español", 045   Caricaturas:    Nickelodeon
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Cartoon Network" tvg-name="Cartoon_Network" tvg-logo="cartoon-network.png" group-title="Español", 046   Caricaturas:   Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Disney XD" tvg-name="Disney_XD" tvg-logo="disney-xd.png" group-title="Español", 047   Caricaturas:   Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Boomerang" tvg-name="Boomerang" tvg-logo="boomerang.png" group-title="Español", 048   Caricaturas:   Boomerang
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TIIN" tvg-name="TIIN" tvg-logo="tiin.png" group-title="Español", 049   Caricaturas:   TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Tooncast" tvg-name="Tooncast" tvg-logo="tooncast.png" group-title="Español", 050   Caricaturas:   Tooncast
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Investigación Discovery" tvg-name="Investigación_Discovery" tvg-logo="Investigacion-Discovery.png" group-title="Español", 051   Entretenimiento:   Investigación Discovery
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Infinito" tvg-name="Infinito" tvg-logo="infinito.png" group-title="Español", 052   Entretenimiento:   Infinito
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_HD Theater" tvg-name="HD_Theater" tvg-logo="hd-theater.png" group-title="Español", 053   Entretenimiento:   HD Theater
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_History HD" tvg-name="History_HD" tvg-logo="history-hd.png" group-title="Español", 054   Entretenimiento:   History HD
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_NatGeo Wild HD" tvg-name="NatGeo_Wild_HD" tvg-logo="natgeo-wild-hd.png" group-title="Español", 055   Entretenimiento:   NatGeo Wild HD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TLC HD" tvg-name="TLC_HD" tvg-logo="tlc-hd.png" group-title="Español", 056   Entretenimiento:    TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Discovery Channel" tvg-name="Discovery_Channel" tvg-logo="discovery-channel.png" group-title="Español", 057   Entretenimiento:    Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Animal Planet" tvg-name="Animal_Planet" tvg-logo="animalplanet.png" group-title="Español", 058   Entretenimiento:    Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Home and Health" tvg-name="Home_and_Health" tvg-logo="home-and-health.png" group-title="Español", 059   Entretenimiento:    Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_NatGeo" tvg-name="NatGeo" tvg-logo="natgeo.png" group-title="Español", 060   Entretenimiento:   NatGeo
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="MC2xml_I267.303416024.microsoft.com" tvg-name="LIFELA267_LIFELA267lifetime_latin_americaCable" tvg-logo="lifetime.png" group-title="Español", 061    Entretenimiento:   Lifetime
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Discovery Science" tvg-name="Discovery_Science" tvg-logo="discovery-science.png" group-title="Español", 062   Entretenimiento:   Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Discovery Civilization" tvg-name="Discovery_Civilization" tvg-logo="discovery-civilization.png" group-title="Español", 063   Entretenimiento:   Discovery Civilization
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Discovery Turbo" tvg-name="Discovery_Turbo" tvg-logo="discovery-turbo.png" group-title="Español", 064   Entretenimiento:   Discovery Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TLC" tvg-name="TLC" tvg-logo="tlc.png" group-title="Español", 065   TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_WOBI TV" tvg-name="WOBI_TV" tvg-logo="wobi-tv.png" group-title="Español", 066   WOBI TV
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox 1 HD" tvg-name="Fox_1_HD" tvg-logo="fox-1-hd.png" group-title="Español", 067   Fox 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Action (E)" tvg-name="Fox_Action_(E)" tvg-logo="fox-action.png" group-title="Español", 068   Movies:   Fox Action   ( English, Subt Espanol ).
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Movies HD" tvg-name="Fox_Movies_HD" tvg-logo="fox-movies-HD.png" group-title="Español", 069   Peliculas:   Fox Movies HD   
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Cinéma" tvg-name="Fox_Cinéma" tvg-logo="fox-cinema.png" group-title="Español", 070   Movies:   Fox Cinema   ( English, Subt Espanol ).
+http://200.76.77.237/LIVE/H01/CANAL421/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Classics" tvg-name="Fox_Classics" tvg-logo="fox-classics.png" group-title="Español", 071   Movies:   Fox Classics  ( English, Subt Espanol ). 
+http://200.76.77.237/LIVE/H01/CANAL424/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Cinecanal HD" tvg-name="Cinecanal_HD" tvg-logo="cinecanal-hd.png" group-title="Español", 072   Movies:   Cinecanal HD   ( English, Subt Espanol ).
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TNT HD" tvg-name="TNT_HD" tvg-logo="tnt-hd.png" group-title="Español", 073   TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Golden" tvg-name="Golden" tvg-logo="golden.png" group-title="Español", 074   Golden
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_The Film Zone HD" tvg-name="The_Film_Zone_HD" tvg-logo="the-film-zone-hd.png" group-title="Español", 075   Movies:   The Film Zone HD   ( English, Subt Espanol ).
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_De Película HD" tvg-name="De_Película_HD" tvg-logo="de-pelicula-hd.png" group-title="Español", 076   Peliculas:   De Película HD  
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_AMC HD" tvg-name="AMC_HD" tvg-logo="amchd.png" group-title="Español", 077   AMC HD  
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Space HD" tvg-name="Space_HD" tvg-logo="space-hd.png" group-title="Español", 078   Peliculas:   Space HD  
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Family (E)" tvg-name="Fox_Family_(E)" tvg-logo="fox-family.png" group-title="Español", 079   Peliculas:   Fox Family   
+http://200.76.77.237/LIVE/H01/CANAL475/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Cinecanal (W)" tvg-name="Cinecanal_(W)" tvg-logo="cinecanal-(W).png" group-title="Español", 080   Peliculas:   Cinecanal
+http://200.76.77.237/LIVE/H01/CANAL480/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Cinemax (W)" tvg-name="Cinemax_(W)" tvg-logo="cinemax-(w).png" group-title="Español", 081   Peliculas:   Cinemax
+http://200.76.77.237/LIVE/H01/CANAL481/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TNT" tvg-name="TNT" tvg-logo="tnt.png" group-title="Español", 082   TNT
+http://200.76.77.237/LIVE/H01/CANAL482/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Golden Edge" tvg-name="Golden_Edge" tvg-logo="golden-edge.png" group-title="Español", 083   Golden Edge
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Space" tvg-name="Space" tvg-logo="space.png" group-title="Español", 084   Peliculas:   Space
+http://200.76.77.237/LIVE/H01/CANAL491/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Studio Universal" tvg-name="Studio_Universal" tvg-logo="studio-universal.png" group-title="Español", 084   Studio Universal
+http://200.76.77.237/LIVE/H01/CANAL492/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_I.Sat" tvg-name="I.Sat" tvg-logo="i.sat.png" group-title="Español", 085   Peliculas:   I.Sat
+http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TCM" tvg-name="TCM" tvg-logo="tcm.png" group-title="Español", 086   Peliculas:   TCM
+http://200.76.77.237/LIVE/H01/CANAL496/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Sports HD" tvg-name="Fox_Sports_HD" tvg-logo="fox-sports-hd.png" group-title="Español", 087   Deportes:   Fox Sports HD
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Fox Sports 2 HD" tvg-name="Fox_Sports_2_HD" tvg-logo="fox-sports-2-hd.png" group-title="Español", 088   Deportes:   Fox Sports 2 HD
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn-hd.png" group-title="Español", 089   Deportes:   ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_ESPN HD" tvg-name="ESPN_HD" tvg-logo="espn.png" group-title="Español", 090   Deportes:   ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_ESPN 2" tvg-name="ESPN_2" tvg-logo="espn-2.png" group-title="Español", 091   Deportes:   ESPN 2
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_ESPN 3 HD" tvg-name="ESPN_3_HD" tvg-logo="espn-3-hd.png" group-title="Español", 092   Deportes:   ESPN 3 HD
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_AyM Sports" tvg-name="AyM_Sports" tvg-logo="aym-sports.png" group-title="Español", 093   Deportes:   AyM Sports
+http://200.76.77.237/LIVE/H01/CANAL576/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="Total_Milenio TV" tvg-name="Milenio_TV" tvg-logo="milenio-tv.png" group-title="Español", 094   Milenio TV
+http://200.76.77.237/LIVE/H01/CANAL603/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="MC2xml_I630.44563402.microsoft.com" tvg-name="BTV630_BTV630bloomberg_en_espanolCable" tvg-logo="bloomberg.png" group-title="Español", 095   Bloomberg
+http://200.76.77.237/LIVE/H01/CANAL610/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_TVE" tvg-name="TVE" tvg-logo="tve.png" group-title="Español", 096   Espana:   TVE
+http://200.76.77.237/LIVE/H01/CANAL651/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_MTV Live HD" tvg-name="MTV_Live_HD" tvg-logo="mtv-live-hd.png" group-title="Español", 097   Musica:   MTV Live HD
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Telehit HD" tvg-name="Telehit_HD" tvg-logo="telehit-hd.png" group-title="Español", 098   Musica:   Telehit HD
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_VH1 HD" tvg-name="VH1_HD" tvg-logo="vh1-hd.png" group-title="Español", 099  Musica:   VH1 HD
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_MTV" tvg-name="MTV" tvg-logo="mtv.png" group-title="Español", 100   Musica:   MTV
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="MC2xml_I727.235634313.microsoft.com" tvg-name="MTVHTLA727_MTVHTLA727mtv_hits_latin_americaCable" tvg-logo="mtv-hits.png" group-title="Español", 101   Musica:   MTV Hits
+http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="MC2xml_I728.217704455.microsoft.com" tvg-name="VH1CL728_VH1CL728vh1_classicCable" tvg-logo="vh1-classisc.png" group-title="Español", 102   Musica:   VH1 Classisc
+http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Ritmoson Latino" tvg-name="Ritmoson_Latino" tvg-logo="ritmoson-latino.png" group-title="Español", 103   Musica:   Ritmoson Latino
+http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="Total_Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.png" group-title="Español", 104    Musica:   Bandamax
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?
+#EXTINF:-1 tvg-id="NY_I41.28459472.microsoft.com" tvg-name="WXTV41_WXTV41Univision_(SI)_Affiliate" tvg-logo="univision.png" group-title="Español", 105   Univisión
+http://66.55.92.79:1935/app/chivas69s-channel/.m3u8
+#EXTINF:-1 tvg-id="NY_I68.28461119.microsoft.com" tvg-name="WFUT68_WFUT68UniMas_Affiliate" tvg-logo="unimas.png" group-title="Español", 106   UniMás
+http://66.55.92.79:1935/app/chivass69s-channel/.m3u8
+#EXTINF:-1 tvg-id="NY_I47.195990900.microsoft.com" tvg-name="WNJUDT47_WNJUDT47WNJUDT_(WNJU-DT)TELEMUNDO_(HBC)_Affiliate" tvg-logo="telemundo.png" group-title="Español", 107   Telemundo
+http://66.55.92.79:1935/app/chivasss69s-channel/.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 2 de Tele Antillas (República Dominicana)" tvg-name="Tele_Antillas" tvg-logo="teleantillas.png" group-title="Español", 108   Rep Dominicana:   Tele Antillas
+http://mek4.mekstream.com/teleantillas/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal Telesistema 11 (República Dominicana)" tvg-name="Telesistema" tvg-logo="telesistema.png" group-title="Español", 109   Rep Dominicana:   Telesistema
+http://mek4.mekstream.com:1935/telesistema/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 37 de CDN (República Dominicana)" tvg-name="CDN_37" tvg-logo="cdn37.png" group-title="Español", 110   Rep Dominicana:   CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal 9 de Color Visión (República Dominicana)" tvg-name="Color_Visión" tvg-logo="color-vision.png" group-title="Español", 111   Rep Dominicana:   Color Visión
+http://ss7.domint.net:2048/cvis_str/color/playlist.m3u8
+#EXTINF:-1 tvg-id="Total_Canal CDN-SportsMax" tvg-name="CDN-SportsMax" tvg-logo="CDN-SportsMax.png" group-title="Español", 112   Rep Dominicana:   CDN-SportsMax
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NY_I218.199680572.microsoft.com" tvg-name="GOLFHD218_GOLFHD218The_Golf_Channel_HDSports_Satellite" group-title="New", 113   English:   Golf
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.23 9.112.104
+
+#EXTINF:-1 tvg-id="Sky_I517.93.microsoft.com" tvg-name="Sky_News517_Sky_News517" group-title="New", 114   English:   Sky News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 group-title="New", 115   English:   I24 News
+http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_english/398/master.m3u8
+#EXTINF:-1 group-title="New", 116   English:   ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/master.m3u8?
+#EXTINF:-1 tvg-id="NY_I355.28459524.microsoft.com" tvg-name="CNBC355_CNBC355Satellite" group-title="New", 117   English:   CNBC
+http://origin2.live.web.tv.streamprovider.net/streams/3bc166ba3776c04e987eb242710e75c0/index.m3u8
+
+#EXTINF:0 tvg-logo="guiatv-prueba.png", 118   Espana   RTVe
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
+#EXTINF:0 tvg-logo="guiatv-prueba.png", Espana: 119   Espana    RT Español
+http://odna.octoshape.net/f3f5m2v4/cds/ch2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="guiatv-prueba.png", 120   Musica:   Gotica Music
+rtmp://149.11.34.6:1935/live/gotica.stream
+ 
+#EXTINF:-1 tvg-logo="guiatv-prueba.png", 121   Musica:   Trendy Musica
+http://uneapple-i.akamaihd.net/hls/live/205019/grupoune_st10@205019/st10_index.m3u8
+#INFM3U
+#EXTINF:-1 El Trece 
+rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
+#EXTINF:-1 TN            
+rtsp://stream.tn.com.ar/live/tnhd1   
+#EXTINF:-1 canal 26 
+rtsp://live-edge01.telecentro.net.ar:80/live/26hd-360       
+#EXTINF:-1 Magazine 
+rtsp://stream.mgzn.tv/live/mgzntv/mgzntv                     
+#EXTINF:-1 Q Musica 
+mms://streamqm.uigc.net/qmusica  
+#EXTINF:-1, Canal 12 Cordoba
+
+#EXTINF:-1, Canal Rural 
+
+#EXTINF:-1, 
+
+
+
